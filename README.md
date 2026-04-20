@@ -88,6 +88,6 @@
 
 - **本项目依赖于Github Actions运行，不会泄露你的xp**
 - **每两个月需要手动激活Actions,在github关闭Actions之前会发邮件提醒你**
-
+ 
 # API
  [picacomic-api](https://github.com/FirmianaMarsili/picacomic-api)
